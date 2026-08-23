@@ -1,0 +1,19 @@
+# Terraform working directory
+.terraform/
+
+# Terraform state
+*.tfstate
+*.tfstate.*
+
+# Saved plans and logs
+*.tfplan
+crash.log
+crash.*.log
+terraform-debug.log
+*.terraform.log
+
+# Explicit secret tfvars patterns
+*.secret.tfvars
+secrets.auto.tfvars
+
+# IMPORTANT: do not ignore .terraform.lock.hcl
