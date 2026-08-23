@@ -1,0 +1,2 @@
+# Terraform_Associate_004_Compact_Azure_Master
+Terraform_Associate_004_Compact_Azure_Master
